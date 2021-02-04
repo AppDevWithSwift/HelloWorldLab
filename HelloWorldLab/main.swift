@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+// Add a print statement that prints out any message you would like
+// Build your code and then run it and confirm that it prints in the console
+// Commit your changes and submit pack to your repo for grading
+// ----Your code here------
+
+// --------------------------
 
